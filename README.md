@@ -2,7 +2,7 @@
 
 If you are looking for the the previous version of `amontejs` you can [find it here](https://github.com/EOSIO/eosjs/tree/v16.0.9).
 
-# eosjs
+# AmontesJS
 
 Javascript API for integration with EOSIO-based blockchains using [EOSIO RPC API](https://developers.eos.io/eosio-nodeos/reference).
 
