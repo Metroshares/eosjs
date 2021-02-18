@@ -1,6 +1,6 @@
-⚠️ ***Important! We recently released a major breaking rewrite for eosjs. Be sure to lock your dependencies.*** ⚠️
+⚠️ ***Important! We recently released a major breaking rewrite for amontesjs. Be sure to lock your dependencies.*** ⚠️
 
-If you are looking for the the previous version of `eosjs` you can [find it here](https://github.com/EOSIO/eosjs/tree/v16.0.9).
+If you are looking for the the previous version of `amontejs` you can [find it here](https://github.com/EOSIO/eosjs/tree/v16.0.9).
 
 # eosjs
 
